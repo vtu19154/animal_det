@@ -56,7 +56,7 @@ Here's a **professional and engaging `README.md`** for your Animal Detection pro
 
 
 pip install -r requirements.txt
-```
+
 
 ### 3️⃣ Run the Streamlit App
 
