@@ -42,7 +42,7 @@ Welcome to the **Real-Time Animal Detection System**! This project uses cutting-
 
 ### 1️⃣ Clone the Repository
 
-```bash
+
 git clone https://github.com/vtu19154/animal_det.git
 cd animal_det
 
@@ -54,13 +54,12 @@ Here's a **professional and engaging `README.md`** for your Animal Detection pro
 
 ### 2️⃣ Install Dependencies
 
-```bash
+
 pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run the Streamlit App
 
-```bash
 streamlit run app.py
 ```
 
