@@ -1,0 +1,4 @@
+/venv
+/yolo_venv
+/data/*.mp4
+/demo/*.mp4
